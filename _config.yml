@@ -1,7 +1,7 @@
 # Site
 title:              Developer Kor-Kim Site
-bio:                '훌륭한 개발자가 되기 위한 노력'
-description:        "충남대학교 졸업\n컴퓨터공학과 전공\n Data Science,Algorithm"
+bio:                '훌륭한 개발자가 되기 위한 노력들'
+description:        "충남대학교 졸업   컴퓨터공학과 전공   김진섭의 블로그"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
