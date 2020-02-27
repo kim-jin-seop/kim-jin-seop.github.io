@@ -186,6 +186,11 @@ if(true)
 | 왼쪽정렬 | 가운데정렬 | 오른쪽정렬 |
 | 가운데 |   | 빈공간 |
 | 다 | 채 | 움 |
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 이렇게 테이블도 만들 수 있습니다.  
 
 ---
