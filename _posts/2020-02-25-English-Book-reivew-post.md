@@ -5,8 +5,8 @@ date:   2020-02-25
 excerpt: "원어민 영어를 공부하는 꿀팁을 제공하는 책의 공부방법"
 project: true
 tag:
-- English
-- Book
+- ENGLISH
+- BOOK
 comments: true
 ---
 <center>책을 광고하고싶어서 리뷰를 하는것은 아닙니다! <b>이 책에서 배운 공부방법</b>을 기록하고 잊지않고자, 블로그에 저장하기 위하여 글을 씁니다.</center>

@@ -5,9 +5,9 @@ date:   2020-02-24
 excerpt: "Git의 MD파일에 이미지를 업로드하는 Tip"
 project: true
 tag:
-- MarkDown
-- git
-- blog
+- MARKDOWN
+- GIT
+- BLOG
 comments: true
 ---
 
