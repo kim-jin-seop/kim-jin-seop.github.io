@@ -30,9 +30,9 @@ disqus_shortname:   kim-jin-seop
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
+google:
   #plus:            #username
-  #analytics:
+  analytics:       "UA-159239628-2"
   #verify:
   #ad-client:
   #ad-slot:
