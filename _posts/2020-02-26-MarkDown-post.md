@@ -191,6 +191,21 @@ if(true)
 이렇게 테이블도 만들 수 있습니다.  
 
 ---
+## 영상 넣기
+Markdown에서 가장 불편한 것이 동영상을 넣는 것이라고 생각합니다. 영상을 넣는 방법이 따로 없기때문에, 저는 주로 유튜브를 활용하여 영상을 넣습니다. 저의 유튜브에 영상을 저장하고 iframe 태그를 활용하는 방법을 사용합니다.  
+![img](https://user-images.githubusercontent.com/33629459/75441781-9acdb280-59a1-11ea-8206-9351ebfde1ae.png)
+영상에 들어가서, `소스 코드 복사`를 클릭합니다.  
+
+```html
+<iframe width="1044" height="587" src="https://www.youtube.com/embed/eUQFtpxet1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
+위 처럼 소스코드가 복사되면 그대로 그 태그를 사용합니다.
+
+<iframe width="1044" height="587" src="https://www.youtube.com/embed/eUQFtpxet1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+이렇게 동영상을 넣을 수 있습니다.
+
+---
 ## 포스팅을 마치며
 제가 주로 활용하는 Markdown을 정리하여 포스팅 해보았습니다. HTML에서 사용되던 여러가지 태그들도 활용이 가능합니다!  
 br 태그를 활용해 줄을 띄우는 방법도 가능하며 img태그를 활용해 이미지를 삽입하는게 모두 가능합니다.  
