@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "jinseop_blog"
+title                    : "노력하는 훌륭한 개발자"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김진섭"
-description              : "훌륭한 개발자가 되기 위한 노력"
+description              : "밥먹고 ㄴㄴ"
 url                      : "https://kim-jin-seop.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : kim-jin-seop/ # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "김진섭"
   avatar           : /assets/img/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "훌륭한 개발자가 되기위한 노력"
+  bio              : "나라도 지키고, 개발도 하는 개발자"
   location         : "South Korea"
   email            : tjq2702@naver.com
   links:
