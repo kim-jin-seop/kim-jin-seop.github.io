@@ -5,6 +5,7 @@ date: 2020-02-26 #날짜
 excerpt: "Markdown 기초적인 문법과 사용법 공유" # 짧은 설명
 project: true
 tags: [MARKDOWN,BLOG] # 태그
+toc : true
 comments: true
 ---
 
