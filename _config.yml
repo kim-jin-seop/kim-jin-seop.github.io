@@ -20,12 +20,12 @@ title                    : "노력하는 훌륭한 개발자"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김진섭"
-description              : "밥먹고 ㄴㄴ"
+description              : ""
 url                      : "https://kim-jin-seop.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : kim-jin-seop/ # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : /asstes/img/logo.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Kim Jin Seop"
   avatar           : /assets/img/avatar.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "열심히 공부하고 코딩하며 훌륭한 개발자가 되기위한 노력"
+  bio              : "열심히 공부하고 코딩하며 개발자가 되기위한 노력"
   location         : "South Korea"
   email            : tjq2702@naver.com
   links:
@@ -124,7 +124,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      #url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/kim-jin-seop
