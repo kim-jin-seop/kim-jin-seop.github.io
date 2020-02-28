@@ -1,6 +1,5 @@
 ---
-layout: projects
-project : false # 프로젝트 표시
+layout: post
 title: "마크다운(Markdown) 문법 정리" #제목
 date: 2020-02-26 #날짜
 excerpt: "Markdown 기초적인 문법과 사용법 공유" # 짧은 설명
