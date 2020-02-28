@@ -12,7 +12,7 @@ layout: compress
 </head>
 <body>
     {% include nav.html %}
-
+    {% include toc.html %}
     <!-- Header -->
     <header class="header" role="banner">
         <div class="wrapper animated fadeIn">
@@ -34,16 +34,6 @@ layout: compress
                         <i class="fa fa-chevron-left"></i>
                     </a>
                 </div>
-                <!--추가 -->
-                {% if page.toc %}
-                  <aside class="sidebar__right">
-                    <nav class="toc">
-                      <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}</h4></header>
-                      {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" %}
-                    </nav>
-                  </aside>
-                  {% endif %}
-
                 {{ content }}
                 <div class="entry-meta">
                 {% include meta.html %}
