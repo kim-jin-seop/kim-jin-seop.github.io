@@ -115,7 +115,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: tjq2702@naver.com
+      #url: tjq2702@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://kim-jin-seop.github.io"
