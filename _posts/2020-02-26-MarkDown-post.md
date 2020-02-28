@@ -6,7 +6,6 @@ excerpt: "Markdown 기초적인 문법과 사용법 공유" # 짧은 설명
 project: true
 tags: [MARKDOWN,BLOG] # 태그
 comments: true
-toc : true
 ---
 
 <center>블로그 글을 쓸 때, 참고하기 위하여 Markdown 문법을 정리합니다.</center>
