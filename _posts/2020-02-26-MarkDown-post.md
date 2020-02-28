@@ -2,10 +2,10 @@
 title: "마크다운(Markdown) 문법 정리" #제목
 excerpt: "Markdown 기초적인 문법과 사용법 공유" # 짧은 설명
 categories:
-  - MARKDOWN
+    MARKDOWN
 tags:
-  -MARKDOWN
-  -BLOG # 태그
+    MARKDOWN
+    BLOG # 태그
 last_modified_at: 2020-02-26T08:06:00-05:00 #날짜
 ---
 
