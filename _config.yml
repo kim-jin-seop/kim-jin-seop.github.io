@@ -108,10 +108,10 @@ analytics:
 # Site Author
 author:
   name             : "김진섭"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  avatar           : /assets/img/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "훌륭한 개발자가 되기위한 노력"
+  location         : "South Korea"
+  email            : tjq2702@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
