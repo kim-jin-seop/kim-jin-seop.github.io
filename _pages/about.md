@@ -1,5 +1,6 @@
 ---
 layout: single
+author_profile: true
 title: 블로그 소개
 permalink: /about/
 comments: false
