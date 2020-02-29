@@ -6,6 +6,7 @@ categories:
 tags:
     MARKDOWN
     BLOG # 태그
+teaser : /assets/img/teaser.jpg
 ---
 ---
 블로그 글을 쓸 때, 참고하기 위하여 Markdown 문법을 정리합니다.  
