@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Developer Kor-Kim Site"
 title_separator          : "-"
-subtitle                 : "https://kim-jin-seop.github.io. All rights reserved." # site tagline that appears below site title in masthead
+subtitle                 : "https://kim-jin-seop.github.io 훌륭한 개발자가 되기위한 노력" # site tagline that appears below site title in masthead
 name                     : "김진섭"
 description              : "취미는 코딩! 훌륭한 구글 엔지니어가 되기 위하여 노력하는 개발자의 블로그"
 url                      : "https://kim-jin-seop.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -72,7 +72,7 @@ algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : false # true (default), false
+  powered_by             : # true (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
