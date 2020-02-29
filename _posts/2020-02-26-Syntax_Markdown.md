@@ -7,10 +7,8 @@ tags:
     MARKDOWN
     BLOG # 태그
 header:
-    overlay_image: https://user-images.githubusercontent.com/33629459/75605381-beba0100-5b25-11ea-9867-c0a45fe50ada.png
     teaser: https://user-images.githubusercontent.com/33629459/75605381-beba0100-5b25-11ea-9867-c0a45fe50ada.png
     og_image: https://user-images.githubusercontent.com/33629459/75605381-beba0100-5b25-11ea-9867-c0a45fe50ada.png
----
 ---
 블로그 글을 쓸 때, 참고하기 위하여 Markdown 문법을 정리합니다.  
 

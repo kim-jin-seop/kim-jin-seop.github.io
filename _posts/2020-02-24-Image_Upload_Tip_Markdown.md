@@ -8,10 +8,8 @@ tag:
     GIT
     BLOG
 header:
-    overlay_image: https://user-images.githubusercontent.com/33629459/75142234-ff84d500-5735-11ea-81f3-0eef8d9332ec.png
     teaser: https://user-images.githubusercontent.com/33629459/75142234-ff84d500-5735-11ea-81f3-0eef8d9332ec.png
     og_image: https://user-images.githubusercontent.com/33629459/75142234-ff84d500-5735-11ea-81f3-0eef8d9332ec.png
----
 ---
 ## MarkDown의 불편한점! 이미지 삽입  
 저는 깃헙을 사용하며 README.md파일을 통해 처음 MarkDown을 접했습니다.  

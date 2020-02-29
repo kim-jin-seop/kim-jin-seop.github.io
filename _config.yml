@@ -296,6 +296,9 @@ defaults:
       toc : true
       toc_label: "페이지 주요 목차"
       toc_sticky: true
+      header:
+        overlay_image: /assets/img/teaser.jpg
+
 
   # _pages
   - scope:
