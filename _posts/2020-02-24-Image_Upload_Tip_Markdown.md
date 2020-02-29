@@ -7,6 +7,9 @@ tag:
     MARKDOWN
     GIT
     BLOG
+header:
+    teaser: https://user-images.githubusercontent.com/33629459/75142234-ff84d500-5735-11ea-81f3-0eef8d9332ec.png
+    og_image: https://user-images.githubusercontent.com/33629459/75142234-ff84d500-5735-11ea-81f3-0eef8d9332ec.png
 ---
 ---
 ## MarkDown의 불편한점! 이미지 삽입  
