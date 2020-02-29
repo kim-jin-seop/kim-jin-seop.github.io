@@ -6,7 +6,6 @@ categories:
 tags:
     MARKDOWN
     BLOG # 태그
-last_modified_at: 2020-02-26T08:06:00-05:00 #날짜
 ---
 ---
 블로그 글을 쓸 때, 참고하기 위하여 Markdown 문법을 정리합니다.  
