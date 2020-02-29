@@ -10,7 +10,6 @@ header:
     teaser: https://user-images.githubusercontent.com/33629459/75250759-6bda0400-581c-11ea-8b02-bd252da8270c.jpg
     og_image: https://user-images.githubusercontent.com/33629459/75250759-6bda0400-581c-11ea-8b02-bd252da8270c.jpg
 ---
-책을 광고하고싶어서 리뷰를 하는것은 아닙니다! <b>이 책에서 배운 공부방법</b>을 기록하고 잊지않고자, 블로그에 저장하기 위하여 글을 씁니다.
 ## 책 소개
 ![book](https://user-images.githubusercontent.com/33629459/75250759-6bda0400-581c-11ea-8b02-bd252da8270c.jpg)
 저자명 : 영어변태 윤승원  

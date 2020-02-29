@@ -10,8 +10,6 @@ header:
     teaser: https://user-images.githubusercontent.com/33629459/75605381-beba0100-5b25-11ea-9867-c0a45fe50ada.png
     og_image: https://user-images.githubusercontent.com/33629459/75605381-beba0100-5b25-11ea-9867-c0a45fe50ada.png
 ---
-블로그 글을 쓸 때, 참고하기 위하여 Markdown 문법을 정리합니다.  
-
 # 마크다운 문법 정리
 마크다운 문법은 너무 쉽고 간단하지만, 매번 사용할때마다 새로운? 느낌을 받았습니다. 먼가 사용을 할때마다 내가 이 문법을 맞게 사용했나 싶기도하고, 항상 찾아보는데 불편함이 있더라구요.  
 그래서 이번 포스팅에서는 내가 주로 사용하는 MarkDown 문법을 작성해 저장하려고합니다.
