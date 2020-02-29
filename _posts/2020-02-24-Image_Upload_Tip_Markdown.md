@@ -8,6 +8,7 @@ tag:
     GIT
     BLOG
 header:
+    overlay_image: https://user-images.githubusercontent.com/33629459/75142234-ff84d500-5735-11ea-81f3-0eef8d9332ec.png
     teaser: https://user-images.githubusercontent.com/33629459/75142234-ff84d500-5735-11ea-81f3-0eef8d9332ec.png
     og_image: https://user-images.githubusercontent.com/33629459/75142234-ff84d500-5735-11ea-81f3-0eef8d9332ec.png
 ---

@@ -7,6 +7,7 @@ tag:
     ENGLISH
     BOOK
 header:
+    overlay_image: https://user-images.githubusercontent.com/33629459/75250759-6bda0400-581c-11ea-8b02-bd252da8270c.jpg
     teaser: https://user-images.githubusercontent.com/33629459/75250759-6bda0400-581c-11ea-8b02-bd252da8270c.jpg
     og_image: https://user-images.githubusercontent.com/33629459/75250759-6bda0400-581c-11ea-8b02-bd252da8270c.jpg
 
