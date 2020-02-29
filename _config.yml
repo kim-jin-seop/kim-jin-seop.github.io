@@ -295,3 +295,4 @@ defaults:
       related: true
       toc : true
       toc_label: "페이지 주요 목차"
+      toc_sticky: false
