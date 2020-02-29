@@ -1,16 +1,14 @@
 ---
-layout: post
 title:  "Git Blog에 이미지 업로드 Tip"
-date:   2020-02-24
 excerpt: "Git의 MD파일에 이미지를 업로드하는 Tip"
-project: true
+categories:
+    MARKDOWN
 tag:
-- MARKDOWN
-- GIT
-- BLOG
-comments: true
+    MARKDOWN
+    GIT
+    BLOG
 ---
-
+---
 ## MarkDown의 불편한점! 이미지 삽입  
 저는 깃헙을 사용하며 README.md파일을 통해 처음 MarkDown을 접했습니다.  
 마크다운은 여러가지 방면에서 굉장히 편리하였고 좋았지만, 가장 불편한 것은 이미지를 삽입하는 것이라고 생각해..
