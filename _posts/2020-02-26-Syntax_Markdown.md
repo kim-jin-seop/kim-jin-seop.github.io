@@ -4,8 +4,8 @@ excerpt: "Markdown 기초적인 문법과 사용법 공유" # 짧은 설명
 categories:
     MARKDOWN
 tags:
-    MARKDOWN
-    BLOG # 태그
+    - MARKDOWN
+    - BLOG # 태그
 header:
     teaser: https://user-images.githubusercontent.com/33629459/75605381-beba0100-5b25-11ea-9867-c0a45fe50ada.png
     og_image: https://user-images.githubusercontent.com/33629459/75605381-beba0100-5b25-11ea-9867-c0a45fe50ada.png
