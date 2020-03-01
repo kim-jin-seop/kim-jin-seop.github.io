@@ -1,8 +1,7 @@
 ---
 title:  "머신러닝이란?"
 excerpt: "머신러닝에 대한 기초적인 지식과 개발환경 소개"
-categories:
-    ML
+categories: ML
 tag:
     ML
     AI
