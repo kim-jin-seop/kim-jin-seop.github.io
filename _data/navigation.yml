@@ -2,11 +2,11 @@
 main:
     - title: "About"
       url: /about/
+    - title: "Data Science"
+      url: /categories/DataScience
     - title: "Categories"
       url: /categories/
     - title: "Tags"
       url:  /tags/
     - title: "Posts"
       url:  /posts/
-    - title: "Data Science"
-      url: /categories/DataScience
