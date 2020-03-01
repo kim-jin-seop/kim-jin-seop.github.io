@@ -3,7 +3,11 @@ title:  "머신러닝이란?"
 excerpt: "머신러닝에 대한 기초적인 지식과 개발환경 소개"
 categories:
     MACHINE LEARNING
-tag: [MACHINE LEARNING, AI, DATA SCIENCE, PYTHON]
+tag:
+    MACHINE LEARNING
+    AI
+    DATA SCIENCE
+    PYTHON
 header:
     teaser: https://user-images.githubusercontent.com/33629459/75618279-4bf56800-5baf-11ea-9b48-7d5230970c9a.PNG
     og_image: https://user-images.githubusercontent.com/33629459/75618279-4bf56800-5baf-11ea-9b48-7d5230970c9a.PNG
