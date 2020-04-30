@@ -3,7 +3,7 @@
 Gem::Specification.new do |spec|
   spec.name                    = "minimal-mistakes-jekyll"
   spec.version                 = "4.18.1"
-  spec.authors                 = ["Michael spec.add_dependency "rake", ">= 12.3.3"
+
   spec.summary                 = %q{A flexible two-column Jekyll theme.}
   spec.homepage                = "https://github.com/mmistakes/minimal-mistakes"
   spec.license                 = "MIT"
