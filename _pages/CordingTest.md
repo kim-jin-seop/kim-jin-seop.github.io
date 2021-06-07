@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: archive
 author_profile: true
 title: CordingTest
 permalink: /CordingTest/
