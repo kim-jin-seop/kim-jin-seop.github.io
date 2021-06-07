@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: collection
 author_profile: true
 title: CordingTest
 permalink: /CordingTest/
