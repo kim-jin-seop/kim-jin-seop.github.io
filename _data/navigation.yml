@@ -1,5 +1,7 @@
 # main links
 main:
+    - title: "Search"
+      url: /Search/
     - title: "CordingTest"
       url: /CordingTest/
     - title: "PortFolio"
