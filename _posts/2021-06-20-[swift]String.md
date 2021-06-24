@@ -1,6 +1,6 @@
 ---
-title:  "swift 사전"
-excerpt: "swift 공부한 문법 정리"
+title:  "[swift]String"
+excerpt: "swift에서 String"
 categories:
     SWIFT
 tag:
@@ -12,29 +12,6 @@ header:
     og_image: https://user-images.githubusercontent.com/33629459/122415954-4a79ca00-cfc3-11eb-8cc5-dad9c9209a26.jpg
 ---
 ![thumb-course-Swift](https://user-images.githubusercontent.com/33629459/122415954-4a79ca00-cfc3-11eb-8cc5-dad9c9209a26.jpg)
-
-
-# 변수와 상수 선언
-
-## 변수(variable)
-변수는 항상 변할 수 있는 값  
-선언하는 방법
-
-```
-var hello = "hello" 
-var world : String = "world!"
-
-print(type(of:a)) // String
-print(type(of:b)) // String
-```
-
-## 상수(constant)
-상수는 변할 수 없는 값. 
-선언하는 방법  
-```
-let hello = 1
-let hello : int = 2
-```
 
 # String
 ## 문자열 그대로 출력하기
