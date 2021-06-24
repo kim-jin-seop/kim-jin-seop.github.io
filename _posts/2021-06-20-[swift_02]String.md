@@ -1,5 +1,5 @@
 ---
-title:  "[swift]String"
+title:  "[swift_02]String"
 excerpt: "swift에서 String"
 categories:
     SWIFT

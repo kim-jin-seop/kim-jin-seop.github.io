@@ -1,5 +1,5 @@
 ---
-title:  "[swift]변수와 상수 선언"
+title:  "[swift_01]변수와 상수 선언"
 excerpt: "swift 변수와 상수 선언하는 법"
 categories:
     SWIFT
