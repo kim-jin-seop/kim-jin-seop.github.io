@@ -24,7 +24,7 @@ header:
 
 <static 생성하는 파일 위치>
 <img width="359" alt="스크린샷 2021-07-14 오전 12 54 19" src="https://user-images.githubusercontent.com/33629459/125484660-9e4b3a12-c659-409e-bd6d-84a655bd48f8.png">
-이 때, hello-static에 접근하고 싶으면, '/hello-static.html'로 검색해야함.
+이 때, hello-static에 접근하고 싶으면, '/hello-static.html'로 검색해야함.  
 
 # MVC
 
