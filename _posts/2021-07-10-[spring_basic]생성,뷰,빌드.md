@@ -1,6 +1,6 @@
 ---
-title:  "[Spring_1]프로젝트 생성, View, 빌드"
-excerpt: "Spring 공부"
+title:  "[Spring_basic]프로젝트 생성, View, 빌드"
+excerpt: "Spring 기초"
 categories:
     SPRING
 tag:
