@@ -23,7 +23,7 @@ header:
 접근하기 위해서는 html 확장자 까지 작성해야함.
 
 <static 생성하는 파일 위치>
-<img width="359" alt="스크린샷 2021-07-14 오전 12 54 19" src="https://user-images.githubusercontent.com/33629459/125484660-9e4b3a12-c659-409e-bd6d-84a655bd48f8.png">
+<img width="359" alt="스크린샷 2021-07-14 오전 12 54 19" src="https://user-images.githubusercontent.com/33629459/125484660-9e4b3a12-c659-409e-bd6d-84a655bd48f8.png">  
 이 때, hello-static에 접근하고 싶으면, '/hello-static.html'로 검색해야함.  
 
 # MVC
@@ -34,9 +34,10 @@ Model, View, Controller로 하는 역할을 나누어 둠.
 MVC로 나누는 이유는 프로그램을 개발할 때 MVC를 나누지 않고 개발을하면 굉장히 무거워지기 때문임.  
 
 ## Model,Controller
-<img width="819" alt="스크린샷 2021-07-14 오전 1 11 02" src="https://user-images.githubusercontent.com/33629459/125487298-cfb5af50-4c09-4697-b018-3d5e055eb59b.png">
-Controller를 사용할 때 항상 `java @Controller` anotation을 반드시 class에 붙여주어야함.
-모델을 이용해 뷰로 데이터를 넘겨줄 때, 항상 적절한 anotationd을 써 주어야함.  
+<img width="819" alt="스크린샷 2021-07-14 오전 1 11 02" src="https://user-images.githubusercontent.com/33629459/125487298-cfb5af50-4c09-4697-b018-3d5e055eb59b.png">  
+Controller를 사용할 때 항상 `java @Controller` anotation을 반드시 class에 붙여주어야함.  
+모델을 이용해 뷰로 데이터를 넘겨줄 때, 항상 적절한 anotationd을 써 주어야함.
+
 ```JAVA
     @GetMapping("hello-mvc")
     public String hello(@RequestParam("name") String name,@RequestParam("old") int old, Model model){
@@ -44,17 +45,18 @@ Controller를 사용할 때 항상 `java @Controller` anotation을 반드시 cla
         model.addAttribute("old",old);
         return "hello-mvc";
     }
-```
+```  
+
 - GetMapping anotation을 반드시 붙여야 함.  
-- 데이터를 받을 때는 RequestParam("x")를 사용한다. 그 값은 뒤에 선언한 파라미터로 넘어감.
+- 데이터를 받을 때는 RequestParam("x")를 사용한다. 그 값은 뒤에 선언한 파라미터로 넘어감.  
 - Parameter에 Model은 항상 있어야 함.  
 - `model.addAttribute("name",name)`에서  앞의 name은 html에서 받는 attribute name이고, 뒤 name은 Parameter name임.  
 - return되는 값을 확인하여 'resources/templates'에서 해당 html을 찾아 적용함.  
 
-데이터를 넘겨주는 역할은 Model이 수행하고, 처리를 하는 역할은 Controller가 수행함.
+데이터를 넘겨주는 역할은 Model이 수행하고, 처리를 하는 역할은 Controller가 수행함.  
 
-## View
-```html
+## View  
+```html  
 <html xmlns:th="http://www.thymeleaf.org">
 <body>
 <p th:text="'hello ' + ${name}">hello! empty</p>
