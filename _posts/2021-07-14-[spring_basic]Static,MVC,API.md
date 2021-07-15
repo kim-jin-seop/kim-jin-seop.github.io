@@ -23,7 +23,7 @@ header:
 접근하기 위해서는 html 확장자 까지 작성해야함.
 
 <static 생성하는 파일 위치>
-<img width="359" alt="스크린샷 2021-07-14 오전 12 54 19" src="https://user-images.githubusercontent.com/33629459/125484660-9e4b3a12-c659-409e-bd6d-84a655bd48f8.png">  
+<img width="359" alt="스크린샷 2021-07-14 오전 12 54 19" src="https://user-images.githubusercontent.com/33629459/125484660-9e4b3a12-c659-409e-bd6d-84a655bd48f8.png">    
 이 때, hello-static에 접근하고 싶으면, '/hello-static.html'로 검색해야함.  
 
 # MVC
@@ -38,7 +38,7 @@ MVC로 나누는 이유는 프로그램을 개발할 때 MVC를 나누지 않고
 Controller를 사용할 때 항상 `java @Controller` anotation을 반드시 class에 붙여주어야함.  
 모델을 이용해 뷰로 데이터를 넘겨줄 때, 항상 적절한 anotationd을 써 주어야함.
 
-```JAVA
+```java
     @GetMapping("hello-mvc")
     public String hello(@RequestParam("name") String name,@RequestParam("old") int old, Model model){
         model.addAttribute("name",name);
@@ -75,7 +75,7 @@ return이 되는 값을 확인하여 viewResolver가 관련 templates를 찾아�
 #API
 
 ## String API  
-```JAVA
+```java
     @GetMapping("hello-string")
     @ResponseBody
     public String helloString(@RequestParam("name") String name){
@@ -93,7 +93,7 @@ String을 넘겨주는 API이다. Controller에 구현을 한다.
 
 ## Object API
 
-```JAVA
+```java
     static class Hello{
         private String name;
 
