@@ -1,5 +1,5 @@
 ---
-title:  "[Spring_basic]프로젝트 생성, View, 빌드"
+title:  "[Spring_basic]프로젝트생성,View,빌드"
 excerpt: "Spring 기초"
 categories:
     SPRING
