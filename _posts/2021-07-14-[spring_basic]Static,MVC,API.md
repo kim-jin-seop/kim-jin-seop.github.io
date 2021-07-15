@@ -38,7 +38,7 @@ MVC로 나누는 이유는 프로그램을 개발할 때 MVC를 나누지 않고
 Controller를 사용할 때 항상 `java @Controller` anotation을 반드시 class에 붙여주어야함.  
 모델을 이용해 뷰로 데이터를 넘겨줄 때, 항상 적절한 anotationd을 써 주어야함.
 
-```java
+```java  
     @GetMapping("hello-mvc")
     public String hello(@RequestParam("name") String name,@RequestParam("old") int old, Model model){
         model.addAttribute("name",name);
