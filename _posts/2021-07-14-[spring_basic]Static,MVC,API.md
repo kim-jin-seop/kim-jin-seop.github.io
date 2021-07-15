@@ -19,15 +19,14 @@ header:
 ## static?
 웹을 html 그대로 static으로 보여주는 방법.  
 'resources/static/' 경로에 html파일을 직접 넣어주면 됨.  
-스프링 부트에서 항상 Controller가 있는지 확인하고, 없으므로 'resources/static/'에서 원하는 html을 찾아서 웹브라우저에 올려줌.  
+스프링 부트에서 항상 Controller가 있는지 확인하고, 없으므로 resources/static/에서 원하는 html을 찾아서 웹브라우저에 올려줌.  
 접근하기 위해서는 html 확장자 까지 작성해야함.
 
 <static 생성하는 파일 위치>
 <img width="359" alt="스크린샷 2021-07-14 오전 12 54 19" src="https://user-images.githubusercontent.com/33629459/125484660-9e4b3a12-c659-409e-bd6d-84a655bd48f8.png">    
-이 때, hello-static에 접근하고 싶으면, '/hello-static.html'로 검색해야함.  
-
+이 때, hello-static에 접근하고 싶으면, /hello-static.html로 검색해야함.  
+  
 # MVC
-
 ## MVC?
 Model, View, Controller로 하는 역할을 나누어 둠.  
 웹브라우저에서 요청이 오면 항상 Controller를 우선으로 거쳐 작업을 처리한 후 Model이 View로 처리한 작업을 옮기고 웹브라우저로 넘겨줌.  
