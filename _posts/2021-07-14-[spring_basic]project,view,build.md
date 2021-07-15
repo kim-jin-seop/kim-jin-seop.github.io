@@ -1,5 +1,5 @@
 ---
-title:  "[Spring_basic]Project,View,Build"
+title:  "[Spring_basic]Static,MVC,A"
 excerpt: "Spring 기초"
 categories:
     SPRING
@@ -49,7 +49,7 @@ Gradle은 Race Condition을 대비해 checksum 기반 캐시를 사용한다.
 ## Welcome Page
 resources/static에 index.html로 생성  
 ## Model, View, Controller
-![스크린샷 2021-07-11 오전 12 58 39](https://user-images.githubusercontent.com/33629459/125169011-3cdeeb00-e1e3-11eb-8ced-6e2350cbd821.png)
+![스크린샷 2021-07-11 오전 12 58 39](https://user-images.githubusercontent.com/33629459/125169011-3cdeeb00-e1e3-11eb-8ced-6e2350cbd821.png)  
 - Controller에서 return값이 페이지 이름이 되어야 함.
 - Controller에서 처리하면 Model이 attribute를 가지고 View에 넘겨줌.
 
