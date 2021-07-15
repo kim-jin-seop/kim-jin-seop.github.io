@@ -12,6 +12,7 @@ header:
     teaser: https://user-images.githubusercontent.com/33629459/125073613-34a98180-e0f7-11eb-9e65-2508acbacfab.png
     og_image: https://user-images.githubusercontent.com/33629459/125073613-34a98180-e0f7-11eb-9e65-2508acbacfab.png
 ---
+
 위 블로그는 김영한 개발자님의 "스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술" 강의를 듣고, 배운 내용을 제가 필요할 때 찾기위해 요약한 글 입니다.  
 
 # Static
@@ -25,7 +26,7 @@ header:
 <static 생성하는 파일 위치>  
 <img width="359" alt="스크린샷 2021-07-14 오전 12 54 19" src="https://user-images.githubusercontent.com/33629459/125484660-9e4b3a12-c659-409e-bd6d-84a655bd48f8.png">    
 이 때, hello-static에 접근하고 싶으면, /hello-static.html로 검색해야함.  
-  
+
 # MVC
 ## MVC?
 Model, View, Controller로 하는 역할을 나누어 둠.  

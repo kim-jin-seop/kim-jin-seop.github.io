@@ -1,5 +1,5 @@
 ---
-title:  "[Spring_basic]프로젝트생성,View,빌드"
+title:  "[Spring_basic]Project,View,Build"
 excerpt: "Spring 기초"
 categories:
     SPRING
@@ -12,6 +12,7 @@ header:
     teaser: https://user-images.githubusercontent.com/33629459/125073613-34a98180-e0f7-11eb-9e65-2508acbacfab.png
     og_image: https://user-images.githubusercontent.com/33629459/125073613-34a98180-e0f7-11eb-9e65-2508acbacfab.png
 ---
+
 위 블로그는 김영한 개발자님의 "스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술" 강의를 듣고, 배운 내용을 제가 필요할 때 찾기위해 요약한 글 입니다.  
 
 # Spring Project 생성
