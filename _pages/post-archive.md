@@ -1,6 +1,6 @@
 ---
-title: "모든 게시물"
-permalink: /posts/
-layout: posts
+title: "TIL(Today I Learned)"
+permalink: /til/
+layout: TIL
 author_profile: true
 ---

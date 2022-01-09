@@ -1,6 +1,6 @@
 ---
 title: "검색"
 layout: search
-permalink: /Search/
+permalink: /search/
 author_profile: true
 ---

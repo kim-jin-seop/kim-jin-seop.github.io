@@ -1,6 +1,6 @@
 ---
 title: "Project & Certificate"
-permalink: /categories/PortFolio/
+permalink: /categories/resume/
 layout: category
 author_profile: true
 ---
@@ -26,5 +26,4 @@ author_profile: true
 취득기관 :  <a href = "https://www.dataq.or.kr/">한국데이터산업진흥원</a>     
 취득일자 :  '21.06.02(금)  
 자격증 소개 : 데이터 분석 관련 통계지식과 이해 그리고 데이터 분석 기획 능력을 요구하는 국가공인자격증이다.
-----------------------------------------------------------------------------------------------
-# Project
+-------------------------------------------------------
